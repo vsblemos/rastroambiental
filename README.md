@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rastro Ambiental" src=".github/preview.png" width="100%">
+  <img alt="Rastro Ambiental" src="capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
